@@ -1,0 +1,24 @@
+{
+  "name": "pureir",
+  "version": "1.0.0",
+  "description": "Creating a 1 sample impulse at 48 kHz in JS. Meant for sound design / convolution reverbs (mainly convolve drum resynthesis).",
+  "main": "pureIR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomacBarin/PureIR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TomacBarin/PureIR/issues"
+  },
+  "homepage": "https://github.com/TomacBarin/PureIR#readme",
+  "dependencies": {
+    "wavefile": "^11.0.0"
+  }
+}
